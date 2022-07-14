@@ -44,9 +44,6 @@ function App() {
     }
     myClassName = myClassNameTemp;
     otherClassName = otherClassNameTemp;
-
-    console.log(myClassName);
-    console.log(otherClassName);
   };
 
   return (
